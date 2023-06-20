@@ -14,10 +14,7 @@ a{
     text-decoration: none;
     color: white;
 }
-a:visited,:active{
-    text-decoration: none;
-    color: white;
-}
+
 
 header{
     display: flex;
